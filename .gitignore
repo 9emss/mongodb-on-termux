@@ -1,0 +1,40 @@
+# Backup and temporary files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+*.iml
+
+# Node/npm (if ever used)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (if any scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build artifacts
+/dist
+/build
+*.o
+*.out
+*.class
+*.jar
+*.exe
+*.bin

@@ -16,8 +16,8 @@ This repository provides a **step-by-step guide and installer script** for runni
 
 ```bash
 pkg install git -y
-git clone https://github.com/<your-username>/termux-mongodb.git
-cd termux-mongodb
+git clone https://github.com/9emss/mongodb-on-termux.git
+cd mongodb-on-termux
 bash install-mongodb.sh
 ```
 ---

@@ -108,4 +108,4 @@ MIT License
 - [MongoDB Documentation](https://www.mongodb.com/docs/manual/)
 - [Termux Wiki: termux-services](https://wiki.termux.com/wiki/Termux-services)
 - [tur-repo (Trusted User Repository for Termux)](https://github.com/termux-user-repository/tur)
-```
+
